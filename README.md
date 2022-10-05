@@ -10,5 +10,4 @@ Then if the username is right it redirects to a map where locations of friends o
 For proper work you must enter your bearer token in bt.env file, which must be in the same directory as task3.py.
 Also this directory must contain templates directory with welcome.html file
 
-I hope it is ok that I didn't share my token to the public repository, for it will not work without it,
-but on the other hand Twitter didn't warn us not to share it with everyone for no reason)
+I didn't share my token to the public repository, but it will not work without it
